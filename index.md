@@ -1,8 +1,8 @@
 ## Welcome to my Portfolio
 
-You can use the [editor on GitHub](https://github.com/FellipeMTX/FellipeMTX.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Fellipe De Sousa Montes, known on the internet as ''FellipeMTX''. I have always been passionate about technology and, mainly, computers. Since I finished elementary school, I have been looking for an academic education that would suit my interests. I have attended colleges such as veterinary medicine, journalism, and, more recently, law. Courses that, although I enjoyed, were not what I really wanted for my life. It was then that I discovered life as a programmer. Since then, I have been going deeper and deeper and falling in love with it more and more each day. on this page you can get to know a little more about the practice of my new passion and, maybe, help me improve. i hope you enjoy it and give me feedback, I am always open to suggestions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Translated with www.DeepL.com/Translator (free version)
 
 ### Markdown
 
